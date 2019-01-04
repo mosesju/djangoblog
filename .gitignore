@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+py37
+db.postgres
+/static
+.DS_Store
